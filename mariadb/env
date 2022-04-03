@@ -1,0 +1,6 @@
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_ROOT_PASSWORD=root!
+MYSQL_DATABASE=commonlog
+MYSQL_USER=local_dbuser
+MYSQL_PASSWORD=number1Cloud!2#
